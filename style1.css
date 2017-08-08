@@ -1,0 +1,35 @@
+*{
+  margin: 30px;
+  padding: 10px;
+
+}
+body{
+
+
+  background: #BBDEFB;
+}
+
+a{
+  font-size: 20px;
+  text-decoration: none;
+  background: #26A69A;
+  color: #fff;
+  padding: 10px 20px;
+  display: inline-block;
+  box-shadow: 0px 5px 0px #c92e62;
+  font-family: Lucida Calligraphy;
+
+}
+
+a:hover{
+  background: #26A69A;
+  box-shadow: 0px 2px 0px #d61137;
+  border-radius: 20px;
+}
+
+a:active{
+  background: #039BE5;
+  color: #fff;
+  box-shadow: #none;
+  border-radius: 20px;
+}
